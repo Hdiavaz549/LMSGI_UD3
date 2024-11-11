@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root xmlns:s="Genero del Autor"
-xmlns:l="Genero literario">
+<root xmlns:s="GenerodelAutor"
+xmlns:l="Generoliterario">
 <libreria>
     <libro id="1">
         <autores>
