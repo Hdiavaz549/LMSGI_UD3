@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="Genero del Autor"
+xmlns:l="Genero literario">
+<libreria>
+    <libro id="1">
+        <autores>
+            <autor>
+                <nombre>Eva</nombre>
+                <apellido1>García</apellido1>
+                <apellido2>Sáenz de Urturi</apellido2>
+                <s:genero>Mujer</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Fantasía romántica</l:generoliterario>
+                <titulo>La saga de los longevos, La vieja familia</titulo>
+                <editorial>Planeta</editorial>
+                <ISBN>9788408292692</ISBN>
+                <fecha_publicacion>2012</fecha_publicacion>
+    </libro>
+
+    <libro id="2">
+        <autores>
+            <autor>
+                <nombre>Francesca</nombre>
+                <apellido1>Gianone</apellido1>
+                <s:genero>Mujer</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Ficción</l:generoliterario>
+                <titulo>La cartera</titulo>
+                <editorial>Duomo ediciones</editorial>
+                <ISBN>978-84-19834-22-5</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="3">
+        <autores>
+            <autor>
+                <nombre>Brandon</nombre>
+                <apellido1>Sanderson</apellido1>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Fantasía épica</l:generoliterario>
+                <titulo>Viento y verdad. El archivo de las tormentas 5</titulo>
+                <editorial>Nova</editorial>
+                <ISBN>9788419260543</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="4">
+        <autores>
+            <autor>
+                <nombre>Éric</nombre>
+                <apellido1>de</apellido1>
+                <apellido2>Kermel</apellido2>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Novela romántica</l:generoliterario>
+                <titulo>La librería  de los deseos</titulo>
+                <editorial>NEWTON COMPTON EDITORES</editorial>
+                <ISBN>978-84-19620-26-2</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="5">
+        <autores>
+            <autor>
+                <nombre>Paloma</nombre>
+                <apellido1>Sánchez</apellido1>
+                <apellido2>Garnica</apellido2>
+                <s:genero>Mujer</s:genero>
+               
+            </autor>
+        </autores>
+
+        <l:generoliterario>Novela histórica</l:generoliterario>
+        <titulo>Victoria</titulo>
+        <editorial>Planeta</editorial>
+        <ISBN>9788408292692</ISBN>
+        <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="6">
+        <autores>
+            <autor>
+                <nombre>Alex</nombre>
+                <apellido1>Michaelides</apellido1>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Suspense</l:generoliterario>
+                <titulo>La paciente silenciosa</titulo>
+                <editorial>Debolsillo</editorial>
+                <ISBN> 9788466351935</ISBN>
+                <fecha_publicacion>2019</fecha_publicacion>
+    </libro>
+
+    <libro id="7">
+        <autores>
+            <autor>
+                <nombre>Andrés</nombre>
+                <apellido1>Trapiello</apellido1>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Ficción</l:generoliterario>
+                <titulo>Me piden que regrese</titulo>
+                <editorial>DESTINO S.A.</editorial>
+                <ISBN>978-84-233-6585-2</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="8">
+        <autores>
+            <autor>
+                <nombre>Han</nombre>
+                <apellido1>Kang</apellido1>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Novela psicológica</l:generoliterario>
+                <titulo>La vegetariana</titulo>
+                <editorial>Random House</editorial>
+                <ISBN>9788439743897</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="9">
+        <autores>
+            <autor>
+                <nombre>Michael</nombre>
+                <apellido1>McDowell</apellido1>
+                <s:genero>Hombre</s:genero>
+                
+            </autor>
+        </autores>
+
+        <l:generoliterario>Ficción literaria</l:generoliterario>
+                <titulo>Blackwater 1. La riada</titulo>
+                <editorial>Blackie Books</editorial>
+                <ISBN>9788419654892</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+    <libro id="10">
+        <autores>
+            <autor>
+                <nombre>Ashley</nombre>
+                <apellido1>Elston</apellido1>
+                <s:genero>Mujer</s:genero>
+                
+            </autor>
+        </autores>
+        
+        <l:generoliterario>Suspense</l:generoliterario>
+                <titulo>La primera mentira gana</titulo>
+                <editorial>SUMA DE LETRAS</editorial>
+                <ISBN>978-84-9129-722-2</ISBN>
+                <fecha_publicacion>2024</fecha_publicacion>
+    </libro>
+
+</libreria>
+</root>
