@@ -1,0 +1,43 @@
+{
+    "estudiantes": [
+        {"Nombre": "Andrea", "edad": 18, "asignaturas": [
+            {"Asignatura": "Matemáticas", "calificación": 7 },
+            {"Asignatura": "Lengua Castellana", "calificación": 8},
+            {"Asignatura": "Inglés", "calificación": 6},
+            {"Asignatura": "Francés", "calificación": 9}
+        ]
+        },
+
+        {"Nombre": "Jorge", "edad": 16, "asignaturas": [
+            {"Asignatura": "Matemáticas", "calificación": 5},
+            {"Asignatura": "Lengua Castellana", "calificación": 4},
+            {"Asignatura": "Inglés", "calificación": 8},
+            {"Asignatura": "Francés", "calificación": 5}
+        ]
+        },
+
+        {"Nombre": "Luis", "edad": 17, "asignaturas": [
+            {"Asignatura": "Matemáticas", "calificación": 8},
+            {"Asignatura": "Lengua Castellana", "calificación": 7},
+            {"Asignatura": "Inglés", "calificación": 5},
+            {"Asignatura": "Francés", "calificación": 4}
+        ]
+        },
+    
+    {
+        "profesores": [
+            {"Nombre": "Juan", "edad": 45, "asignaturas": [
+                {"Asignatura": "Francés", "créditos": 25},
+                {"Asignatura": "Inglés", "créditos": 15}
+            ]
+            },
+
+            {"Nombre": "Ana", "edad": 33, "asignaturas": [
+                {"Asignatura": "Lengua Castellana", "creditos": 19},
+                {"Asignatura": "Matemáticas", "creditos": 25}
+            ]}
+        ]
+
+    }
+]
+}
