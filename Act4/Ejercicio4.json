@@ -1,0 +1,86 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 37,
+        "cargo": "Desarrollador",
+        "salario": 55000,
+        "proyecto": [
+            {"id": 1, "nombre": "Sistema de Gestión", "fecha_inicio": "16/5/2024"},
+            {"id": 2, "nombre": "Aplicación Móvil", "fecha_inicio": "12/11/2023"}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "María Rodríguez",
+        "edad": 45,
+        "cargo": "Analista de Datos",
+        "salario": 60000,
+        "proyecto": [
+            {"id": 1, "nombre": "Sistema de Gestión", "fecha_inicio": "16/5/2024"},
+            {"id": 2, "nombre": "Aplicación Móvil", "fecha_inicio": "12/11/2023"}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Carlos Gómez",
+        "edad": 34,
+        "cargo": "Diseñador",
+        "salario": 75000,
+        "proyecto": [
+            {"id": 2, "nombre": "Aplicación Móvil", "fecha_inicio": "12/11/2023"},
+            {"id": 1, "nombre": "Sistema de Gestión", "fecha_inicio": "16/5/2024"}
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Ana López",
+        "edad": 28,
+        "cargo": "Desarrolladora",
+        "salario": 55000,
+        "proyecto": [
+            {"id": 2, "nombre": "Aplicación Móvil", "fecha_inicio": "12/11/2023"},
+            {"id": 1, "nombre": "Sistema de Gestión", "fecha_inicio": "16/5/2024"}
+        ]
+      }
+    ],
+
+    
+        "proyectos": [
+          {
+            "id": 1,
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "16/5/2024",
+            "equipo": [
+              {"id": 101, "nombre": "Juan Pérez"},
+              {"id": 102, "nombre": "María Rodríguez"},
+              {"id": 103, "nombre": "Carlos Gómez"},
+              {"id": 104, "nombre": "Ana López"}
+            ],
+            "tareas": [
+              {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+              {"id": 202, "descripcion": "Desarrollo del backend", "completada": false},
+              {"id": 203, "descripcion": "Desarrollo de funciones principales", "completada": true},
+              {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": false}
+            ]
+          },
+          {
+            "id": 2,
+            "nombre": "Aplicación Móvil",
+            "fecha_inicio": "12/11/2023",
+            "equipo": [
+              {"id": 101, "nombre": "Juan Pérez"},
+              {"id": 102, "nombre": "María Rodríguez"},
+              {"id": 103, "nombre": "Carlos Gómez"},
+              {"id": 104, "nombre": "Ana López"}
+            ],
+            "tareas": [
+              {"id": 201, "descripcion": "Corrección de errores", "completada": true},
+              {"id": 202, "descripcion": "Creación de ejecutables para PC", "completada": false},
+              {"id": 203, "descripcion": "Desarrollo de funciones principales", "completada": true},
+              {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": true}
+            ]
+          }
+        ]
+}
